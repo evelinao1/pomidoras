@@ -1,0 +1,1 @@
+console.error('ERROR: nedalink is nulio!!!')
